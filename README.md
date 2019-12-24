@@ -33,19 +33,23 @@ Análise de dados da Organização Mundial de Saude (WHO) sobre espectativa de v
 
 Comparação de dois textos de livros para verificar a similaridade entre eles. Os livros são dois romances de James Joyce do projeto Gutemberg: Ulysses e Dubliners.
 
-## Exemplo 03:
+## Exemplo 03: Análise de Enlace
 
-## Exemplo 04:
+## Exemplo 04: Análise de Dados Contínuos (Streaming)
 
-## Exemplo 05:
+## Exemplo 05: Regras de Associação e Clustering
 
-## Exemplo 06:
+## Exemplo 06: Processamento Paralelo - Cálculo de Pi
 
-## Exemplo 07:
+## Exemplo 07: Processamento Paralelo - Contagem de Palavras 
 
-## Exemplo 08:
+## Exemplo 08: Análise de Comunidades
 
+## Exemplo 09: Sistemas de Recomendação
 
+## Exemplo 10: Redução de Dimensionalidade usando Principal Component Analysis (PCA) 
+
+## Exemplo 11: Aprendizado de Máquina
 
 
 
