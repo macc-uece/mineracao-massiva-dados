@@ -33,8 +33,17 @@ Análise de dados da Organização Mundial de Saude (WHO) sobre espectativa de v
 
 Comparação de dois textos de livros para verificar a similaridade entre eles. Os livros são dois romances de James Joyce do projeto Gutemberg: Ulysses e Dubliners.
 
+## Exemplo 03:
 
+## Exemplo 04:
 
+## Exemplo 05:
+
+## Exemplo 06:
+
+## Exemplo 07:
+
+## Exemplo 08:
 
 
 
