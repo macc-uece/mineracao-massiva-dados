@@ -51,7 +51,8 @@ Comparação de dois textos de livros para verificar a similaridade entre eles. 
 
 ## Exemplo 10: Redução de Dimensionalidade usando Principal Component Analysis (PCA) 
 
-## Exemplo 11: Aprendizado de Máquina
+## Exemplo 11: Aprendizado de Máquina (Machine Learning)
 
+Comparação de vários algoritmos de Aprendizagem de Máquina para predizer espécie de flores Iris (Iris dataset). Executa os algoritmos K-Nearest Neighbors (KNN), Multilayer Perceptron (Rede Neural), Naive Bayes, Suport Vector Machines (SVM) e Decision Tree, mostrando acurácia e tempo de treinamento.         
 
 
