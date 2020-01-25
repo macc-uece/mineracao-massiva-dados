@@ -47,6 +47,8 @@ Comparação de dois textos de livros para verificar a similaridade entre eles. 
 
 ## Exemplo 08: Análise de Comunidades
 
+Análise de comunidades em grafos usando algoritmos Girvan-Newman e Spectral Clustering. Dataset Zachary Karate Club. 
+
 ## Exemplo 09: Sistemas de Recomendação
 
 ## Exemplo 10: Redução de Dimensionalidade usando Principal Component Analysis (PCA) 
