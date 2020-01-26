@@ -43,6 +43,8 @@ Comparação de dois textos de livros para verificar a similaridade entre eles. 
 
 ## Exemplo 06: Processamento Paralelo - Cálculo de Pi
 
+Esse script mostra um exemplo de processamento paralelo no cluster LASID. Esse exemplo faz o cálculo do valor do número Pi usando método Monte Carlo. O tempo de processamento é comparado com a execução serial do mesmo número de instâncias.
+
 ## Exemplo 07: Processamento Paralelo - Contagem de Palavras 
 
 ## Exemplo 08: Análise de Comunidades
@@ -51,10 +53,10 @@ Análise de comunidades em grafos usando algoritmos Girvan-Newman e Spectral Clu
 
 ## Exemplo 09: Sistemas de Recomendação
 
+Sistema de Recomendação tem como objetivo selecionar itens personalizados para um usuário (cliene) com base nos interesses dele e dos interesses de usuários semelhantes conforme o contexto no qual estão inseridos. Esta técnica pode recomendar itens variados como, por exemplo, livros, filmes, notícias, música, vídeos, páginas de internet e produtos de uma loja virtual. esse exemplo faz a recomendação de filmes para um determinado usuário baseado nos seus gostos e de gostos de outros usuários semelhantes.
+
 ## Exemplo 10: Redução de Dimensionalidade usando Principal Component Analysis (PCA) 
 
 ## Exemplo 11: Aprendizado de Máquina (Machine Learning)
 
 Comparação de vários algoritmos de Aprendizagem de Máquina para predizer espécie de flores Iris (Iris dataset). Executa os algoritmos K-Nearest Neighbors (KNN), Multilayer Perceptron (Rede Neural), Naive Bayes, Suport Vector Machines (SVM) e Decision Tree, mostrando acurácia e tempo de treinamento.         
-
-
