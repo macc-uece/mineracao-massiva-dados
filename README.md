@@ -43,13 +43,15 @@ Comparação de dois textos de livros para verificar a similaridade entre eles. 
 
 ## Exemplo 06: Processamento Paralelo - Cálculo de Pi
 
-Esse script mostra um exemplo de processamento paralelo no cluster LASID. Esse exemplo faz o cálculo do valor do número Pi usando método Monte Carlo. O tempo de processamento é comparado com a execução serial do mesmo número de instâncias.
+Esse script mostra um exemplo de processamento paralelo no cluster LASID. Esse exemplo faz o cálculo do valor do número Pi usando método Monte Carlo. Neste exemplo é avaliado o desempenho para realização de operações matemáticas de forma distribuída. O tempo de processamento paralelo é comparado com a execução serial do mesmo número de instâncias.
 
 ## Exemplo 07: Processamento Paralelo - Contagem de Palavras 
 
+Esse script mostra um exemplo de processamento paralelo com leitura de arquivo no cluster LASID. Esse exemplo faz a contagem de palagras de um texto usando o paradigma Mapreduce, isto é, cada worker lê um pedaço do testo, conta a ocorrência de cada palavra e fas a função Reduce consolidando o valor da contagem. Neste exemplo é avaliado o desempenho para realização de leitura de arquivo e operações matemáticas simples de forma distribuída. O tempo de processamento paralelo com diferentes particionamentos é comparado com a execução serial da contagem do mesmo texto.
+
 ## Exemplo 08: Análise de Comunidades
 
-Análise de comunidades em grafos usando algoritmos Girvan-Newman e Spectral Clustering. Dataset Zachary Karate Club. 
+Análise de comunidades em grafos usando algoritmos Girvan-Newman e Spectral Clustering. Os algoritmos de comunidades é utilizado para analisar redes sociais através da modelagem das relações entre os entes através de um grafo agregando os mais próximos. O Zachary Karate Club é um exemplo clássico que modela a relação entre os membros de um clube de Karate para identificar a qual grupo eles pertencem.
 
 ## Exemplo 09: Sistemas de Recomendação
 
