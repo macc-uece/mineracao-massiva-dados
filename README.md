@@ -38,6 +38,8 @@ Comparação de dois textos de livros para verificar a similaridade entre eles a
 
 ## Exemplo 03: Análise de Enlace
 
+Muitos problemas em Ciência de Dados podem ser modelados com um grafo. Um exemplo é a análise da rede aérea em uma região, onde os vertices são os aeroportos e as arestas são as linhas aéreas. No entanto, apenas a contagem dos voos não indica o aeroporto com melhor conectividade, pois pode ser uma grande metrópole com muitos passageiros. Usando o algoritmo Pagerank podemos extrair infomações mais reais sobre os aeroportos com mais conectividade.
+
 ## Exemplo 04: Análise de Dados Contínuos (Streaming)
 
 ## Exemplo 05: Regras de Associação e Clustering
