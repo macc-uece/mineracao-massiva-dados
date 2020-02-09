@@ -58,7 +58,7 @@ Análise de comunidades em grafos usando algoritmos Girvan-Newman e Spectral Clu
 
 ## Exemplo 09: Sistemas de Recomendação
 
-Sistema de Recomendação tem como objetivo selecionar itens personalizados para um usuário (cliene) com base nos interesses dele e dos interesses de usuários semelhantes conforme o contexto no qual estão inseridos. Esta técnica pode recomendar itens variados como, por exemplo, livros, filmes, notícias, música, vídeos, páginas de internet e produtos de uma loja virtual. esse exemplo faz a recomendação de filmes para um determinado usuário baseado nos seus gostos e de gostos de outros usuários semelhantes.
+Sistema de Recomendação tem como objetivo selecionar itens personalizados para um usuário (cliente) com base nos interesses dele e dos interesses de usuários semelhantes conforme o contexto no qual estão inseridos. Essa técnica pode recomendar itens variados como, por exemplo, livros, filmes, notícias, música, vídeos, páginas de internet e produtos de uma loja virtual. Este exemplo faz a recomendação de filmes para um determinado usuário baseado nos seus gostos e de gostos de usuários semelhantes. O dataset utilizado é do site de recomendação de filmes MovieLens.
 
 ## Exemplo 10: Redução de Dimensionalidade usando Principal Component Analysis (PCA) 
 
