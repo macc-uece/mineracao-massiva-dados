@@ -54,7 +54,7 @@ Esse script mostra um exemplo de processamento paralelo no cluster LASID. Esse e
 
 ## Exemplo 07: Processamento Paralelo - Contagem de Palavras 
 
-Esse script mostra um exemplo de processamento paralelo com leitura de arquivo no cluster LASID. Esse exemplo faz a contagem de palagras de um texto usando o paradigma Mapreduce, isto é, cada worker lê um pedaço do testo, conta a ocorrência de cada palavra e fas a função Reduce consolidando o valor da contagem. Neste exemplo é avaliado o desempenho para realização de leitura de arquivo e operações matemáticas simples de forma distribuída. O tempo de processamento paralelo com diferentes particionamentos é comparado com a execução serial da contagem do mesmo texto.
+Esse script mostra um exemplo de processamento paralelo com leitura de arquivo no cluster LASID. Esse exemplo faz a contagem de palavras de um texto usando o paradigma MapReduce, isto é, cada *worker* lê um pedaço do texto, conta a quantidade de ocorrências de cada palavra e faz a função Reduce consolidando o valor da contagem. Neste exemplo é avaliado o desempenho para realização de leitura de arquivo e operações matemáticas simples de forma distribuída. O tempo de processamento paralelo com diferentes particionamentos é comparado com a execução serial da contagem do mesmo texto.
 
 ## Exemplo 08: Análise de Comunidades
 
