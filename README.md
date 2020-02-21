@@ -4,7 +4,7 @@ Código dos exemplos usados no curso Mineração Massiva de Dados MACC/UECE usan
 
 ## Objetivo
 
-Este repositório tem como objetivo disponibilizar os códigos utilizados na disciplina Mineração Massiva de Dados ofertado para o Mestrado Acadêmico em Ciência da Computação da UECE ([MACC/UECE](https://www.uece.br/macc)). O repositório possui um diretório *data* contendo os arquivos de *dataset* necessário para os scripts em format gzip para reduzir o tamanho. 
+Este repositório tem como objetivo disponibilizar os códigos utilizados na disciplina Mineração Massiva de Dados ofertado para o Mestrado Acadêmico em Ciência da Computação da UECE ([MACC/UECE](https://www.uece.br/macc)). O repositório possui um diretório *data* contendo os arquivos de *dataset* necessário para os scripts, alguns compactados em format gzip para reduzir o tamanho. 
 
 Todos os scripts foram escritos em Python versão 3.6 e disponibilizados em formato Jupyter Lab Notebook para ser usado no Cluster do Laboratório de Sistemas Digitais ([LASID/UECE](https://lasid.uece.br)) 
 
