@@ -33,8 +33,7 @@ Análise de dados da Organização Mundial de Saude (WHO) sobre espectativa de v
 
 ## Exemplo 02: Similaridade de Textos usando Locality-Sensitive Hashing (LSH)
 
-Locality-Sensitive Hashing (LSH) é um algoritmo que separa grupos de palavras em baldes para identificar a probabilidade de semelhança.  
-Com o LSH é possível fazer a comparação entre dois textos para medir a similaridade entre eles através do cálculo de uma função *Hash*. Essa técnica é muito usada para identificar plágio entre textos. Como exemplo, esse exemplo comparar dois romances de James Joyce do projeto Gutemberg: Ulysses e Dubliners. 
+Locality-Sensitive Hashing (LSH) é um algoritmo que separa grupos de palavras em baldes para identificar a probabilidade de semelhança. Com o LSH é possível fazer a comparação entre dois textos para medir a similaridade entre eles através do cálculo de uma função *Hash*. Essa técnica é muito usada para identificar plágio entre textos. Como exemplo, esse exemplo comparar dois romances de James Joyce do projeto Gutemberg: Ulysses e Dubliners. 
 
 ## Exemplo 03: Análise de Enlace
 
