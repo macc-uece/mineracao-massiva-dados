@@ -70,4 +70,4 @@ Sistema de Recomendação tem como objetivo selecionar itens personalizados para
 
 Comparação de vários algoritmos de Aprendizagem de Máquina para predizer espécie de flores Iris (Iris dataset). Executa os algoritmos K-Nearest Neighbors (KNN), Multilayer Perceptron (Rede Neural), Naive Bayes, Suport Vector Machines (SVM) e Decision Tree, mostrando acurácia e tempo de treinamento.         
 
-## Análise de Dados Contínuos (Streaming) 
+## Exemplo 12: Análise de Dados Contínuos (Streaming) 
