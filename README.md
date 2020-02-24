@@ -65,8 +65,10 @@ Sistema de Recomendação tem como objetivo selecionar itens personalizados para
 
 ## Exemplo 10: Redução de Dimensionalidade usando Principal Component Analysis (PCA) 
 
+Redução de dimensionalidade é uma técnica usada em mineração de dados e aprendizado de máquina que tem como objetivo reduzir o número de variáveis de entrada através da seleção do conjunto de variáveis principais. Apesar do risco de perda de acurácia na análise, a redução do tempo de processamento torna esta técnca importante para a análise de dados multivariáveis. Principal Component Analysis (PCA) é principal técnica para redução de dimensionalidade e análise de componentes principais. Este exemplo apresenta a redução de dimensionalidade usando PCA sobre dados nutricionais de alimentos da USDA National Nutrient Database de 45 campos para os 5 campos mais relevantes.  
+
 ## Exemplo 11: Aprendizado de Máquina (Machine Learning)
 
-Comparação de vários algoritmos de Aprendizagem de Máquina para predizer espécie de flores Iris (Iris dataset). Executa os algoritmos K-Nearest Neighbors (KNN), Multilayer Perceptron (Rede Neural), Naive Bayes, Suport Vector Machines (SVM) e Decision Tree, mostrando acurácia e tempo de treinamento.         
+Aprendizado de Máquina (do inglês: *Machine learning*) é um campo da ciência da computação que estuda algoritmos para reconhecimento de padrões e do aprendizado computacional através de Inteligência Artificial (IA). Também podemos dizer que essas técnicas propiciam aos computadores a habilidade de aprender sem serem explicitamente programados, através de algoritmos que podem aprender com seus erros e fazer previsões sobre dados novos sem a necessidade de reprogramar o código. Este exemplo faz uma comparação de vários algoritmos de *Aprendizagem de Máquina* para predizer a espécie de flores Iris (Iris dataset) baseado no tamanho das pétalas e sépalas. Sã comparados os algoritmos K-Nearest Neighbors (KNN), Multilayer Perceptron (Rede Neural), Naive Bayes, Suport Vector Machines (SVM) e Decision Tree, mostrando acurácia e tempo de treinamento.
 
 ## Exemplo 12: Análise de Dados Contínuos (Streaming) 
