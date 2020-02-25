@@ -20,6 +20,8 @@ Na tela do Jupyter Lab, abrir uma janela do terminal para copiar os arquivos par
 git clone https://github.com/macc-uece/mineracao-massiva-dados.git
 ```
 
+Os scripts e as bases de dados estarão no diretório *mineracao-massiva-dados*
+
 ## Autores
 
 Prof. Marcial P. Fernandez (marcial@larces.uece.br)
