@@ -1,8 +1,8 @@
 # Repositório de Datasets
 
-1. *Dubliners_James_Joyce.txt.gz* James Joyce. Dubliners. [https://www.gutenberg.org/](https://www.gutenberg.org/)
-2. *Life_Expectancy_Data.csv.gz*  Dados de Expectativa de Vida 2000-2016 da Organização Mundial de Saúde (WHO)
-3. *Ulysses_James_Joyce.txt.gz* James Joyce. Ulysses. [https://www.gutenberg.org/](https://www.gutenberg.org/)
+1. *Dubliners_James_Joyce.txt.gz* Texto do livro Dubliners de James Joyce. [https://www.gutenberg.org/](https://www.gutenberg.org/)
+2. *Life_Expectancy_Data.csv.gz* Dados de Expectativa de Vida 2000-2016 da Organização Mundial de Saúde (WHO)
+3. *Ulysses_James_Joyce.txt.gz* Texto do livro Ulysses James Joyce. [https://www.gutenberg.org/](https://www.gutenberg.org/)
 4. *groceries.csv.gz* Dataset compras em mercearia Regras de Associação. Marafi, S. “Market Basket Analysis with
 R". [http://www.salemmarafi.com/code/market-basket-analysis-with-r/ ](http://www.salemmarafi.com/code/market-basket-analysis-with-r/ )
 5. *iris.data* Iris Dataset. [https://archive.ics.uci.edu/ml/datasets/Iris](https://archive.ics.uci.edu/ml/datasets/Iris)
