@@ -76,3 +76,7 @@ Aprendizado de Máquina (do inglês: *Machine learning*) é um campo da ciência
 ## Exemplo 12: Análise de Dados Contínuos (Streaming) 
 
 Streaming é o processamento de dados contínuos gerados em tempo real por alguma fonte, como, dados de monitoramente, logs de erros ou transação de cartão de crédito. Os dados são ingeridos e pode ser realizado processamentos complexos como grafos e aprendizado de máquina nessa fonte de dados contínuos. Este exemplo realiza a identificação e contagem de palavras em um período de tempo a partir de um gerador de dados contínuo em formato texto. 
+
+## Exemplo 13: Reconhecimento de Imagens
+
+Uma das mais interessantes aplicações em visão computacional é o reconhecimento de imagens. Na Classificação de Imagens gostaríamos de classificar uma determinada imagem (foto) em algumas categorias pré-definidas, por exemplo, identificar se uma imagem é um gato ou um cão. A técnica mais eficaz para essa tarefa são as Redes Neurais Convolucionais (CNNs) e o procedimento é treinar um classificador a partir de uma base de dados conhecida e avaliar a acurácia do modelo. Uma outra técnica mostrada neste exemplo é o aumento de imagens (Image Augmentation) onde uma imagem pré-classificada sofre deslocamento, inversão, distorção para melhorar a capacidade de reconhecimento do modelo. Este exemplo mostra o treinamento e avaliação do reconhecimento de cinco espécies de flores usando Tensorflow e Keras.   
