@@ -1,20 +1,20 @@
-# Material da Disciplina Mineracao Massiva de Dados MACC/UECE
+# Material da Disciplina Mineracao Massiva de Dados PPGCC/UECE
 
-Código dos exemplos usados no curso Mineração Massiva de Dados MACC/UECE usando o Apache Spark.
+Código dos exemplos usados no curso Mineração Massiva de Dados PPGCC/UECE usando o Apache Spark e Tensorflow.
 
 ## Objetivo
 
-Este repositório tem como objetivo disponibilizar os códigos utilizados na disciplina Mineração Massiva de Dados ofertado para o Mestrado Acadêmico em Ciência da Computação da UECE ([MACC/UECE](https://www.uece.br/macc)). O repositório possui um diretório *data* contendo os arquivos de *dataset* necessário para os scripts, alguns compactados em format gzip para reduzir o tamanho. 
+Este repositório tem como objetivo disponibilizar os códigos utilizados na disciplina Mineração Massiva de Dados ofertado para o Programa de Pós-graduação em Ciência da Computação da UECE ([MACC/UECE](https://www.uece.br/macc)). O repositório possui um diretório *data* contendo os arquivos de *dataset* necessário para os scripts, alguns compactados em format gzip para reduzir o tamanho. O dataset para contagem de palavra distribuída e o dataset de imagens para o script de classificação de imagens, estão hospedados no Cluster LASID devido, respectivamente, a necessidade do arquivo texto estar disponivel para todos os workers e ao tamanho do dataset de imagens.
 
-Todos os scripts foram escritos em Python versão 3.6 e disponibilizados em formato Jupyter Lab Notebook para ser usado no Cluster do Laboratório de Sistemas Digitais ([LASID/UECE](https://lasid.uece.br)) 
+Todos os scripts foram escritos em Python versão 3.8 e disponibilizados em formato Jupyter Lab Notebook para ser usado no Cluster do Laboratório de Sistemas Digitais ([LASID/UECE](https://lasid.uece.br)) 
 
 ATENÇÃO: Desde julho/2019 o LASID está usando a plataforma Jupyter Lab no endereço ([LASIDHUB/UECE](https://lasidhub.uece.br)) .
 
 ## Instalação
 
-Se voce é aluno da disciplina, deve solicitar ao professor a criação de sua conta no cluster LASID. Todo o ambiente está preparado para executar os scripts sem necessidade de instalação adicional.
+Se voce é aluno da disciplina, deve solicitar ao professor a criação de sua conta no cluster LASID. Todo o ambiente está preparado para executar os scripts sem necessidade de nenhuma instalação adicional.
 
-Na tela do Jupyter Lab, abrir uma janela do terminal para copiar os arquivos para sua conta usando git:
+Na tela do Jupyter Lab, voce deve abrir uma janela do terminal para clonar os arquivos para sua conta usando git:
 
 ```
 git clone https://github.com/macc-uece/mineracao-massiva-dados.git
