@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/opt/conda/bin/python
 
 import socket
 import time, io, sys, os.path, re
