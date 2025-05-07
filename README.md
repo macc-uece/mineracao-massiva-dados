@@ -6,13 +6,13 @@ Código dos exemplos usados no curso Mineração Massiva de Dados PPGCC/UECE usa
 
 Este repositório tem como objetivo disponibilizar os códigos utilizados na disciplina Mineração Massiva de Dados ofertado para o Programa de Pós-graduação em Ciência da Computação da UECE ([MACC/UECE](https://www.uece.br/macc)). O repositório possui um diretório *data* contendo os arquivos de *dataset* necessário para os scripts, alguns compactados em format gzip para reduzir o tamanho. O dataset para contagem de palavra distribuída e o dataset de imagens para o script de classificação de imagens, estão hospedados no Cluster LASID devido, respectivamente, a necessidade do arquivo texto estar disponivel para todos os workers e ao tamanho do dataset de imagens.
 
-Todos os scripts foram escritos em Python versão 3.8 e disponibilizados em formato Jupyter Lab Notebook para ser usado no Cluster do Laboratório de Sistemas Digitais ([LASID/UECE](https://lasid.uece.br)) 
+Todos os scripts foram testados em Python versão 3.11 e disponibilizados em formato Jupyter Lab Notebook para ser usado no Cluster do Laboratório de Sistemas Digitais ([LASID/UECE](https://lasid.uece.br)) 
 
-ATENÇÃO: Desde julho/2019 o LASID está usando a plataforma Jupyter Lab no endereço ([LASIDHUB/UECE](https://lasidhub.uece.br)) .
+Para acessar a plataforma Jupyter Lab use o endereço ([LASIDHUB/UECE](https://lasidhub.uece.br)) .
 
 ## Instalação
 
-Se voce é aluno da disciplina, deve solicitar ao professor a criação de sua conta no cluster LASID. Todo o ambiente está preparado para executar os scripts sem necessidade de nenhuma instalação adicional.
+Se voce é aluno da disciplina, deve criar a conta  em ([LASIDHUB/UECE](https://lasidhub.uece.br)) conforme indicações do professor. Todo o ambiente está preparado para executar os scripts sem necessidade de nenhuma instalação adicional, no entanto voce pode instalar seus pacotes prediletos usando *pip* ou *conda*.
 
 Na tela do Jupyter Lab, voce deve abrir uma janela do terminal para clonar os arquivos para sua conta usando git:
 
@@ -26,7 +26,6 @@ Os scripts e as bases de dados estarão no diretório *mineracao-massiva-dados*
 
 Prof. Marcial P. Fernandez (marcial@larces.uece.br)
 
-
 # Descrição dos Scripts
 
 ## Exemplo 01: Estatística e Gráficos
@@ -35,7 +34,7 @@ Análise de dados da Organização Mundial de Saude (WHO) sobre espectativa de v
 
 ## Exemplo 02: Similaridade de Textos usando Locality-Sensitive Hashing (LSH)
 
-Locality-Sensitive Hashing (LSH) é um algoritmo que separa grupos de palavras em baldes para identificar a probabilidade de semelhança. Com o LSH é possível fazer a comparação entre dois textos para medir a similaridade entre eles através do cálculo de uma função *Hash*. Essa técnica é muito usada para identificar plágio entre textos. Como exemplo, esse exemplo comparar dois livros da série Harry Potter. 
+Locality-Sensitive Hashing (LSH) é um algoritmo que separa grupos de palavras em baldes para identificar a probabilidade de semelhança. Com o LSH é possível fazer a comparação entre dois textos para medir a similaridade entre eles através do cálculo de uma função *Hash*. Essa técnica é muito usada para identificar plágio entre textos. Esse exemplo comparar dois livros da série Harry Potter. 
 
 ## Exemplo 03: Análise de Enlace
 
@@ -79,4 +78,4 @@ Streaming é o processamento de dados contínuos gerados em tempo real por algum
 
 ## Exemplo 13: Reconhecimento de Imagens
 
-Uma das mais interessantes aplicações em visão computacional é o reconhecimento de imagens. Na Classificação de Imagens gostaríamos de classificar uma determinada imagem (foto) em algumas categorias pré-definidas, por exemplo, identificar se uma imagem é um gato ou um cão. A técnica mais eficaz para essa tarefa são as Redes Neurais Convolucionais (CNNs) e o procedimento é treinar um classificador a partir de uma base de dados conhecida e avaliar a acurácia do modelo. Uma outra técnica mostrada neste exemplo é o aumento de imagens (Image Augmentation) onde uma imagem pré-classificada sofre deslocamento, inversão, distorção para melhorar a capacidade de reconhecimento do modelo. Este exemplo mostra o treinamento e avaliação do reconhecimento de cinco espécies de flores usando Tensorflow e Keras.   
+Uma das mais interessantes aplicações em visão computacional é o reconhecimento de imagens. Na Classificação de Imagens gostaríamos de classificar uma determinada imagem (foto) em algumas categorias pré-definidas, por exemplo, identificar se uma imagem é um gato ou um cão. A técnica mais eficaz para essa tarefa são as Redes Neurais Convolucionais (CNNs) e o procedimento é treinar um classificador a partir de uma base de dados conhecida e avaliar a acurácia do modelo. Uma outra técnica mostrada neste exemplo é o aumento de imagens (Image Augmentation) onde uma imagem pré-classificada sofre deslocamento, inversão, distorção para melhorar a capacidade de reconhecimento do modelo. Este exemplo mostra o treinamento e avaliação do reconhecimento de cinco espécies de flores usando Tensorflow e Keras.
